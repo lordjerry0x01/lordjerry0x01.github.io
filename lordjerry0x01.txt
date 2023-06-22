@@ -19,4 +19,4 @@ HackerOne : <a href = "https://hackerone.com/lordjerry0x01?type=user"> Sanjay Si
 <h2> My expertise extends to various domains within application security, including: <br/> <p>Static Application Security Testing (SAST)</p> <p>Dynamic Application Security Testing (DAST)</p> <p>Interactive Application Security Testing (IAST)</p> <p>Threat Modeling and Risk Assessment</p> <p>Secure Design Review</p> <p>Vulnerability Assessment and Penetration Testing (VAPT)</p> <p>Security Incident Response</p> <p>Secure Code Review</p> <p>Secure SDLC Implementation</p> </h2>
 
 <h3><span id="a">lordjerry0x01@home</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
-<h1>Secure your journey with the light of knowledge, as a Sanatan guides your path. </h1>
+<h1>Secure your journey with the light of knowledge, as Sanatan guides your path. </h1>
