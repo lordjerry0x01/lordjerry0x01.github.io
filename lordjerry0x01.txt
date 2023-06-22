@@ -1,0 +1,22 @@
+<h3><span id="a">lordjerry0x01@home</span>:<span id="b">~</span><span id="c">$</span> cat lordjerry0x01.txt </h3>
+<h2>Hi, I'm Sanjay Singh Jhala.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>An accomplished Application Security Professional with over 6 years of experience in the field. With expertise in <a href="https://www.microfocus.com/en-us/what-is/sast">SAST</a>, <a href = "https://www.microfocus.com/en-us/what-is/dast">DAST</a>, <a href="https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing">IAST</a>, threat modeling, and secure design review. I am committed to safeguarding software applications from potential threats and vulnerabilities.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><p>Throughout my career, I have worked in diverse industries, including Banking, Aviation, and FMCG (Fast-Moving Consumer Goods). This exposure has provided me with valuable insights into industry-specific security challenges and best practices, enabling me to deliver tailored and effective security solutions. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --><p> Resume - <a href = "https://drive.google.com/file/d/12Az4AwoWmmUn3o0UlqXl15h9AnnlFt2_/view?usp=sharing">Click here</a> </h2>
+
+<h3><span id="a">lordjerry0x01@home</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2>Email addresses : <a href="mailto:sanjaysingh.infosec@gmail.com">sanjaysingh.infosec@gmail.com</a>
+
+Phone Number : <a href = "tel: +919993273722"> +91-9993273722 </a>
+
+Linked-In : <a href = "https://www.linkedin.com/in/lordjerry0x01//"> Sanjay Singh Jhala </a>
+
+HackerOne : <a href = "https://hackerone.com/lordjerry0x01?type=user"> Sanjay Singh Jhala </a> <br/> </h2>
+
+<h3><span id="a">lordjerry0x01@home</span>:<span id="b">~</span><span id="c">$</span> Current Work </h3>
+<h2>Throughout my career, I have worked in diverse industries, including Banking, Aviation, and FMCG (Fast-Moving Consumer Goods). This exposure has provided me with valuable insights into industry-specific security challenges and best practices, enabling me to deliver tailored and effective security solutions.</h2>
+
+
+<h3><span id="a">lordjerry0x01@home</span>:<span id="b">~</span><span id="c">$</span> Expertise Areas </h3>
+<h2> My expertise extends to various domains within application security, including: <br/> <p>Static Application Security Testing (SAST)</p> <p>Dynamic Application Security Testing (DAST)</p> <p>Interactive Application Security Testing (IAST)</p> <p>Threat Modeling and Risk Assessment</p> <p>Secure Design Review</p> <p>Vulnerability Assessment and Penetration Testing (VAPT)</p> <p>Security Incident Response</p> <p>Secure Code Review</p> <p>Secure SDLC Implementation</p> </h2>
+
+<h3><span id="a">lordjerry0x01@home</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
+<h1>Secure your journey with the light of knowledge, as a Sanatan guides your path. </h1>
